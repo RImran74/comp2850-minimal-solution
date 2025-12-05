@@ -11,6 +11,7 @@
 **Type**: Job story
 **WCAG**: [If applicable, e.g., 2.1.1 Keyboard (A)]
 
+---
 
 ## Story S1: Task Filtering
 **Situation**: When I'm looking for a task on the website
@@ -39,13 +40,18 @@ or my mouse
 **Outcome**: So that I save time by not clicking the button each time
 **Underlying need**: Because my filter can take effect more quickly
 
+## Story S5: Editing Tasks
+**Situation**: When I am editing a task
+**Motivation**: I want there to be a button that takes me back
+**Outcome**: So that I can cancel the editing of a button
+**Underlying need**: Because I might change my mind or I may have selected the wrong task
+
 ## Story S6: Organising Tasks
 **Situation**: When I am over a certain number of tasks
 **Motivation**: I want there to be pages for me to navigate through my tasks
 **Outcome**: So that I do not have to scroll a lot to find a certain task
 **Underlying need**: Because I my arm hurts from scrolling too much or its hard for me to find a task
 if there is a lot
-
 
 ---
 
