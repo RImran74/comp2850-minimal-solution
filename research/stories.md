@@ -1,6 +1,6 @@
 # Job Stories — Week 6 Needs-Finding
 
-## Story Template
+## Story #X: Name (Template)
 **Situation**: When I'm [doing specific task in specific context]
 **Motivation**: I want [capability or feature]
 **Outcome**: So I can [accomplish goal]
@@ -13,40 +13,40 @@
 
 ---
 
-## Story S1: Task Filtering
+## Story #1: Task Filtering
 **Situation**: When I'm looking for a task on the website
 **Motivation**: I want to filter by the name
 **Outcome**: So I can find it fast
 **Underlying need**: Because my arm hurts from scrolling too much if I have too many tasks, or because
 its difficult for me to read from screens
 
-## Story S2: Deleting Tasks
+## Story #2: Deleting Tasks
 **Situation**: When I want to delete a task from my list
 **Motivation**: I want an alert/message to pop up before I do it
 **Outcome**: So that I do not accidently delete a task that I still need to do
 **Underlying need**: Because my mouse/mousepad is sensitive when I move it and I can accidently click a
 button on the page that I did not want to click
 
-## Story S3: Adding Tasks
+## Story #3: Adding Tasks
 **Situation**: When I want to add a task to my list
 **Motivation**: I want to be able to add the task my hitting enter on my keyboard
 **Outcome**: So that I do not have to drag my mouse to add task every time
 **Underlying need**: Because I work best when I focus on one input device at a time, whether that is my keyboard
 or my mouse
 
-## Story S4: Task Filtering Effect
+## Story #4: Task Filtering Effect
 **Situation**: When I am filtering tasks
 **Motivation**: I want what I am typing to take effect before I click the apply filter button
 **Outcome**: So that I save time by not clicking the button each time
 **Underlying need**: Because my filter can take effect more quickly
 
-## Story S5: Editing Tasks
+## Story #5: Editing Tasks
 **Situation**: When I am editing a task
 **Motivation**: I want there to be a button that takes me back
 **Outcome**: So that I can cancel the editing of a button
 **Underlying need**: Because I might change my mind or I may have selected the wrong task
 
-## Story S6: Organising Tasks
+## Story #6: Organising Tasks
 **Situation**: When I am over a certain number of tasks
 **Motivation**: I want there to be pages for me to navigate through my tasks
 **Outcome**: So that I do not have to scroll a lot to find a certain task
@@ -55,7 +55,7 @@ if there is a lot
 
 ---
 
-## Story S2: Confirmation Feedback
+## Story #2: Confirmation Feedback
 **Situation**: When I submit a form (add/edit/delete task)
 **Motivation**: I want immediate, explicit confirmation that the action succeeded
 **Outcome**: So I can trust the interface without refreshing to verify
